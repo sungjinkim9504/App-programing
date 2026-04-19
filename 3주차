@@ -1,0 +1,9 @@
+방법 1 — 터미널 명령어로 만들기
+mkdir VibeCoding
+cd VibeCoding
+mkdir Study-01
+cd Study-01
+
+CLAUDE.md : 클로드 코드에게 주는 "프로젝트 메뉴얼"
+
+/init : CLAUDE.md 파일 생성
