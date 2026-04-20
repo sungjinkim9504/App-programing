@@ -1,0 +1,2 @@
+로컬 MCP 명령어 구조
+claude mcp add [이름] [옵션]-- [MCP 실행 명령]
